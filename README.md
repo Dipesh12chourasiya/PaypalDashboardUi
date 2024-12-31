@@ -60,8 +60,3 @@ The UI is designed with a **scrollable layout** and styled using **ConstraintLay
 
 ---
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/android-ui-project.git
